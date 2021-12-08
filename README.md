@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, My name is Sandy K.A.</h1>
 
 <ul>
+  <li>👋 Hei there, my name is Sandy K.A.</li>
   <li> 🌱 I’m currently learning React, Vue, Angular and other frontend framework's</li>
   <li>📫 How to reach me tokairobo@gmail.com</li>
   <li>⚡ Fun fact I like Doggies</li>
