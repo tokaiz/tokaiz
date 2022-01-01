@@ -1,7 +1,7 @@
 
 <ul>
   <li>👋 Hei there, my name is Sandy K.A.</li>
-  <li>🌱 I’m currently learning frontend development</li>
+  <li>🌱 Learning Frontend development</li>
   <li>📫 Reach me on tokairobo@gmail.com</li>
   <li>⚡ Cat's are my favorite</li>
 </ul>
