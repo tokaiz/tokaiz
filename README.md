@@ -1,7 +1,7 @@
 
 <ul>
   <li>👋 Hi there, it's me Sandy</li>
-  <li>🌱 Learning Frontend development</li>
+  <li>🌱 Focusing on web development</li>
   <li>📫 Reach me on tokairobo@gmail.com</li>
   <li>⚡ Cat's are my favorite</li>
 </ul>
